@@ -1,0 +1,1 @@
+# fMRI_SSPNet-An-interpretable-3D-CNN-for-classifing-schizophrenia

@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-# Submission for Medical Image Analysis 
-# "SSPNet: An interpretable 3D-CNN 
-# for classification of schizophrenia 
-# using phase maps 
-# of resting-state complex-valued fMRI data"
-
 import sklearn
 from keras.utils import to_categorical
 import pickle

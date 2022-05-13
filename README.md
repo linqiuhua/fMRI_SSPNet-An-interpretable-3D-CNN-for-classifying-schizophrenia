@@ -4,7 +4,7 @@
          Python 3.6.13   Keras 2.4.3
 
    Datatsets:
-        Our results data can be downloaded from http://pan.dlut.edu.cn/share?id=cag3ass9t7ec
+        Our sample sets can be downloaded from https://pan.baidu.com/s/1mhppL7V9rd224XLwIezdPQ (password: iin0).
         (1) SSPsamples.mat: sample set of DMN spatial source phase separated from complex-valued fMRI data.
         (2) SSMsamples.mat: sample set of DMN spatial source magnitude separated from complex-valued fMRI data.
         (3) MAGsamples.mat: sample set of DMN separated from magnitude-only fMRI data.

@@ -1,10 +1,3 @@
-
-# Submission for Medical Image Analysis 
-# "SSPNet: An interpretable 3D-CNN 
-# for classification of schizophrenia 
-# using phase maps 
-# of resting-state complex-valued fMRI data"
-
 from keras import layers
 from keras import backend as K
 from keras.models import Model

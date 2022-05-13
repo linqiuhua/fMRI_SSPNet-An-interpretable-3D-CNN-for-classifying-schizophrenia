@@ -5,6 +5,7 @@
 
    Datatsets:
         Our sample sets can be downloaded from https://pan.baidu.com/s/1mhppL7V9rd224XLwIezdPQ (password: iin0).
+        
         (1) SSPsamples.mat: sample set of DMN spatial source phase separated from complex-valued fMRI data.
         (2) SSMsamples.mat: sample set of DMN spatial source magnitude separated from complex-valued fMRI data.
         (3) MAGsamples.mat: sample set of DMN separated from magnitude-only fMRI data.

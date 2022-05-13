@@ -13,6 +13,6 @@
    Experimental steps:    
    
         (1) SSPNet_trainingCode.py to train a 3D-CNN model using sample set of DMN spatial source phase separated from complex-valued fMRI data. 
-        Note: The three models trained by spatial source phase, spatial source magnitude and magnitude-only data are stored in model\SSPNet_weights.h5, SSMNet_weights.h5 and MAGNet_weights.h5.
+        Note: Three models trained by spatial source phase, spatial source magnitude and magnitude-only data are stored in model\SSPNet_weights.h5, SSMNet_weights.h5 and MAGNet_weights.h5.
 
         (2) main.py to perform classification and generate interpretability results (testing code).
